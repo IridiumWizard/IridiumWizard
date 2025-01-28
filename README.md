@@ -1,6 +1,6 @@
 ## Hi, I'm Irina! 🧙🏻
 
-👩🏻‍💻 part-time data analyst , full-time Stardew Valley player<br/>
+👩🏻‍💻 part-time data analyst, full-time Stardew Valley player<br/>
 🎓 studied Computer Science at the National Cheng Kung University<br/>
 📖 currently pursuing IMBA at the National Tsing Hua University (Hsinchu)<br/>
 
