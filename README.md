@@ -2,7 +2,7 @@
 
 Python developer with hands-on experience in ETL pipeline design, PostgreSQL, and data-driven automation. Research background in quantitative methods (PCA, system GMM) and full-pipeline data analysis.
 
-<br>Previously: advertising data infrastructure at Bubbleye — performance data pipelines, cross-platform data models, workflow automation.<br>
+Previously: advertising data infrastructure at Bubbleye — performance data pipelines, cross-platform data models, workflow automation.<br>
 <br>🎓 B.Sc. Computer Science — National Cheng Kung University
 <br>🎓 M.B.A. Technology Management — National Tsing Hua University 
 <br>🔍 Open to data engineering and backend roles
