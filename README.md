@@ -1,11 +1,18 @@
-## Hi, I'm Irina! 🧙🏻
+# 💫 About Me:
 
-👩🏻‍💻 part-time data analyst, full-time Stardew Valley player<br/>
-🎓 studied Computer Science at the National Cheng Kung University<br/>
-📖 currently pursuing IMBA at the National Tsing Hua University (Hsinchu)<br/>
+Python developer with hands-on experience in ETL pipeline design, PostgreSQL, and data-driven automation. Research background in quantitative methods (PCA, system GMM) and full-pipeline data analysis.
+<br>Previously: advertising data infrastructure at Bubbleye — performance data pipelines, cross-platform data models, workflow automation.<br>
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+<br>🎓 B.Sc. Computer Science — National Cheng Kung University
+<br>🎓 M.B.A. Technology Management — National Tsing Hua University 
+<br>🔍 Open to data engineering and backend roles
+<br>📍 Asia/Taipei (willing to relocate)
 
-## GitHub Stats:
-![IridiumWizard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IridiumWizard&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br/>
+
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=IridiumWizard&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=IridiumWizard&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=IridiumWizard&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
