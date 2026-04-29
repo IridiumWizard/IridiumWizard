@@ -2,7 +2,7 @@
 
 *Python developer with research experience.*
 
-<br>🎓 B.Sc. Computer Science — National Cheng Kung University
+🎓 B.Sc. Computer Science — National Cheng Kung University
 <br>🎓 M.B.A. Technology Management — National Tsing Hua University 
 <br>🔍 Open to data engineering and backend roles
 <br>📍 Asia/Taipei (willing to relocate)
